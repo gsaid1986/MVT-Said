@@ -24,4 +24,6 @@ class Entregables(models.Model):
     fechaDeEntrega = models.DateField()
     entregado = models.BooleanField()
 
+#
+
 
